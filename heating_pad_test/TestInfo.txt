@@ -1,0 +1,16 @@
+Test date: 03/07/2023
+
+this test was performed to evaluate the effectivness of the oxidizer tank heater. The test was performed with a water filled tank with thermocouples placed at various points inside.
+The data collected is used to predict how the heating pad will heat up nitrous for a coldflow/hotfire test in the winter.
+
+Thermocouple placement:
+top- through the top hole of tank
+outer heating pad- placed on the outside of the heating pad
+inside heating pad- placed on the inside of the tank, against the wall with the heating pad
+bottom- placed inside the tank at the bottom most point
+
+initial water temp = ~10C
+heating pad specs:
+2.16 kW
+115V
+heater was turned on and off every 1/5 second (0.2s)
